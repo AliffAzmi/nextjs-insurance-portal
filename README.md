@@ -26,4 +26,3 @@ cd nextjs-insurance-portal
 npm install
 npm run dev
 ```
-
